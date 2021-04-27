@@ -134,7 +134,7 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 | CentOS | 7.0 ~ 8.3 |
 > 如果您的系统或版本不在此列表中则无法使用此脚本
 #### __脚本一键部署：__
-    bash <(curl -sSL https://gitee.com/SuperManito/JD-FreeFuck/raw/main/install.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/yiyule10/JD-FreeFuck/main/install.sh)
 > _再次提醒：请根据您使用的平台选择合适的版本，不要重复部署！_
 #### __常见问题与帮助：__
 1. 如果执行部署脚本命令后提示 `Command 'curl' not found` 则说明当前未安装 `curl` 软件包，安装命令如下：
